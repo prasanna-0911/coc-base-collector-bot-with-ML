@@ -37,15 +37,16 @@ coc-base-collector-bot/
 ## ⚙️ Setup Instructions
 
 1️⃣ Clone Repository
-
+```
 git clone https://github.com/YOUR_USERNAME/coc-base-collector-bot.git
 cd coc-base-collector-bot
+```
 
 2️⃣ Install Dependencies
 Make sure you have Python 3.8+ installed.
-
+```
 pip install -r requirements.txt
-
+```
 3️⃣ Connect Android Device
 1. Enable USB Debugging in Developer Options.
 
